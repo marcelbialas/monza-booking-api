@@ -1,6 +1,6 @@
 # Booking API with Google Calendar Integration
 
-This Node.js Express API handles appointment scheduling by interfacing with the Google Calendar API to retrieve available time slots and create bookings.
+This Node.js Express API handles appointment scheduling by interfacing with the Google Calendar API to retrieve available time slots and create bookings. The project is not in active development and is partially incomplete.
 
 ## Features
 
