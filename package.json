@@ -1,0 +1,32 @@
+{
+  "name": "monza_backend",
+  "version": "1.0.0",
+  "description": "Backend for Monza Indoor Kart Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Marcel Bialas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "dompurify": "^2.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "google-calendar": "^1.3.2",
+    "googleapis": "^60.0.1",
+    "helmet": "^4.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.0",
+    "moment-timezone": "^0.5.31",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.4.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
